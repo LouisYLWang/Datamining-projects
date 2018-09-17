@@ -1,0 +1,3 @@
+abnormal:abnormal	24.55	8.59
+abnormal:normal	26.35	9.07
+normal:normal	21.55	6.27
